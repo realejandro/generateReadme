@@ -74,6 +74,10 @@ function generateMarkdown( { title, description, installation, usage, license, c
 
   ## Email
   Send me an email to chat to: ${ email }
+
+  ## Video
+  Please watch this video before to understand better:
+  https://drive.google.com/file/d/1AXeKUHTJecv0BlPp7egsFtzpU9_EakQJ/view
   `;
 
 }

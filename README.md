@@ -1,31 +1,31 @@
 
 
-  # MY SUPER APP
+  # MY SUPERHERO APP
 
   ## Description
-  This app is to comparate super heroes
+  this is an app to comparates super heroes
 
   ## Installation
-  install in your local project downloading the app
+  use the link to clone the app in your local project
 
   ## Usage
-  use comman node index.js respond the questions and it will create a super heroe readme
+  once that you clone the app update the elements that you want
 
   ## license
    
-    This project is licensed under  GPL license 
-  [![GPL-3.0 License](https://img.shields.io/badge/license-GPL_3.0-blue)](https://www.gnu.org/licenses/gpl-3.0)
+    This project is licensed under  MIT license 
+  [![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
   
 
   ## Contribuiting
-  clone the project and add your ideas
+  clone and give ideas
 
   ## Tests
-  selenium
+  selenium to test the environment
 
   ## Github Acount
   https://wwww.github.com/realejandro
 
   ## Email
-  c.alex_19@hotmail.com
+  Send me an email to chat to: c.alex_19@hotmail.com
   
