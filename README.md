@@ -3,13 +3,13 @@
   # MY SUPER APP
 
   ## Description
-  This app is created to compare super heroes
+  This app is to comparate super heroes
 
   ## Installation
-  Use command npm i super and it would install dependencies
+  install in your local project downloading the app
 
   ## Usage
-  You can update components of the app in the way that you want
+  use comman node index.js respond the questions and it will create a super heroe readme
 
   ## license
    
@@ -18,10 +18,10 @@
   
 
   ## Contribuiting
-  clone the repo for contribuiting 
+  clone the project and add your ideas
 
   ## Tests
-  use selenium webdriver for testing
+  selenium
 
   ## Github Acount
   https://wwww.github.com/realejandro

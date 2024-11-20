@@ -73,7 +73,7 @@ function generateMarkdown( { title, description, installation, usage, license, c
   https://wwww.github.com/${ github }
 
   ## Email
-  ${ email }
+  Send me an email to chat to: ${ email }
   `;
 
 }
