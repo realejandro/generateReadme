@@ -1,15 +1,15 @@
 
 
-  # MY SUPERHERO APP
+  # MY HEROE APP
 
   ## Description
-  this is an app to comparates super heroes
+  The best app to compare super heroes and create markdowns
 
   ## Installation
-  use the link to clone the app in your local project
+  Clone the url app to your local project
 
   ## Usage
-  once that you clone the app update the elements that you want
+  Once that you clone it you can update some of the components of the project
 
   ## license
    
@@ -18,14 +18,18 @@
   
 
   ## Contribuiting
-  clone and give ideas
+  Clone and join to the team to give ideas
 
   ## Tests
-  selenium to test the environment
+  Selenium webdriver
 
   ## Github Acount
   https://wwww.github.com/realejandro
 
   ## Email
   Send me an email to chat to: c.alex_19@hotmail.com
+
+  ## Video
+  Please watch this video before to understand better:
+  https://drive.google.com/file/d/1AXeKUHTJecv0BlPp7egsFtzpU9_EakQJ/view
   
